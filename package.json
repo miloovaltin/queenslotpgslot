@@ -1,17 +1,16 @@
-
 {
-"name": "queenslotpgslot",
-"theme": "queenslot pg slot",
-"version": "4.6.2",
-"description": "queenslot pg slot สมัครเว็บไซต์สล็อตเว็บตรง อันดับ 1 แจกเงินเครดิตฟรี",
-"keywords": [
-"queenslot pg slot",
-"queenslot pg slot เครดิตฟรี",
-"queenslot pg slot ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/queenslotpgslot",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "queenslotpgslot",
+  "theme": "queenslot pg slot",
+  "version": "4.7.0",
+  "description": "queenslot pg slot สมัครเว็บไซต์สล็อตเว็บตรง อันดับ 1 แจกเงินเครดิตฟรี",
+  "keywords": [
+    "queenslot pg slot",
+    "queenslot pg slot เครดิตฟรี",
+    "queenslot pg slot ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/queenslotpgslot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
